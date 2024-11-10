@@ -17,7 +17,8 @@ const spaceGrotesk = localFont({
 
 export const metadata: Metadata = {
   title: "devFlow",
-  description: "developer communication platform",
+  description:
+    "A community-driven platform for asking and answering prompting questions. Get help, share knowledge, and collaborate with prompters from the GRT. Explore topics in prompt engineering, AI, Machine Learning, Genralist Prompting, and more.",
 };
 
 export default function RootLayout({
